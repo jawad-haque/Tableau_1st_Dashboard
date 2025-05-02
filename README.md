@@ -1,5 +1,7 @@
 # Tableau_1st_Dashboard
 
+![Screenshot 2025-05-02 094925](https://github.com/user-attachments/assets/938dd2db-4806-4aef-a247-99d3d1e0e03e)
+
 🚀 My First Hands-On Experience on a Tableau Project! 🚀
 
 I’m excited to share my first Tableau dashboard, where I analysed sales report of awesome chocolates in different country. This project was a deep dive into data visualization and storytelling, helping me uncover meaningful patterns from a sample dataset of awesome chocolates and understand the sales report.
