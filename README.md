@@ -8,8 +8,8 @@ I’m excited to share my first Tableau dashboard, where I analysed sales report
 
 ✅  Business Summary: 
  i.         Total sales
- ii.         Number of boxes shipped
- iii.         Shipment count
+ ii.        Number of boxes shipped
+ iii.       Shipment count
 
 ✅  Sales by Country: Sales done in different countries.
 
