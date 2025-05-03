@@ -34,4 +34,4 @@ Leveraging Tableau's powerful visualization tools, this dashboard provides a cle
 
 Would love to hear your thoughts! Any suggestions for improvement or new visualization ideas☺️.
 
-Tableau link: https://lnkd.in/g4DNmnKk
+Tableau link: https://public.tableau.com/views/Tableau_1st_Dashboard_17461589235320/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
